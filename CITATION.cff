@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite the associated paper."
+title: "FreeRTOS Criticality-Urgency Quadrant Model Demo"
+authors:
+  - family-names: "Shaik"
+    given-names: "Azad Mohammed"
+    email: "azad.mohammed@gmail.com"
+license: MIT
+preferred-citation:
+  type: article
+  title: "The Criticality-Urgency Quadrant Model: A Systematic Approach to Task Priority Assignment in Real-Time Operating Systems"
+  authors:
+    - family-names: "Shaik"
+      given-names: "Azad Mohammed"
+  journal: "SSRG International Journal of Computer Science and Engineering"
+  volume: 13
+  issue: 3
+  start: 1
+  end: 19
+  year: 2026
+  month: 3
+  doi: "10.14445/23488387/IJCSE-V13I3P101"
